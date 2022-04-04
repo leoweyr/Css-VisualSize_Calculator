@@ -41,6 +41,7 @@ class ViewportSize:
                 viewportHeight_backup += "."
             if(digit == 3):
                 break
+            digit += 1
         return viewportHeight_backup
 
 def Speaker(sentence,pause=1):

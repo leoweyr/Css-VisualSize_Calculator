@@ -2,7 +2,7 @@
 
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/leoweyr/Css-VisualSize_Calculator?include_prereleases)
 
-##### [English](README.md) | 简体中文
+##### [English](https://github.com/leoweyr/Css-VisualSize_Calculator) | 简体中文
 
 您是否和我一样有同一个困惑？就是在Css网页设计中进行数值处理时，将固定尺寸计算成视窗尺寸，使用`计算器`软件一个个符号去敲**感觉很别捏**，就算使用`Powershell`等全键盘操作进行计算还是有些**步骤显得重复冗余**
 
